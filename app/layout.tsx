@@ -2,9 +2,10 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
-  generator: 'v0.dev',
+  title: 'DetailTrip | Mobile Exterior Detailing',
+  description:
+    'Professional mobile exterior detailing service serving Timmins and Northern Ontario. We bring premium care directly to your location with attention to detail.',
+  generator: 'DetailTrip Landing',
 }
 
 export default function RootLayout({
