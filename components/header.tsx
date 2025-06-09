@@ -21,7 +21,11 @@ export default function Header() {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
           <div className="flex items-center">
-            <span className="text-2xl font-bold text-blue-900">DetailTrip</span>
+            <img 
+              src="/DetailTrip-05-29-2025.svg" 
+              alt="DetailTrip Logo" 
+              className="h-8 w-auto"
+            />
           </div>
 
           {/* Desktop Navigation */}
